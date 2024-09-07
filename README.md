@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Syed Saif Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Bengaluru, India</h3>
 
-<img align="right" alt="coding Image" width="400" src="https://github.com/user-attachments/assets/4717cc2a-ccdb-403e-a336-bbfd53eb3cf2">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsaifahmad&label=Profile%20views&color=0e75b6&style=flat" alt="syedsaifahmad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedsaifahmad" alt="syedsaifahmad" /></a> </p>
+
+<img align="right" alt="coding Image" width="400" src="https://github.com/user-attachments/assets/4717cc2a-ccdb-403e-a336-bbfd53eb3cf2">
 
 - 👨‍💻 All of my projects are available at [https://portfolio-saif-cdb63.web.app/](https://portfolio-saif-cdb63.web.app/)
 
