@@ -1,49 +1,153 @@
-
-<!--
-## Hi there 👋
-**Syedsaifahmad/Syedsaifahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Syed Saif Ahmad</h1>
-<h3 align="center">A passionate frontend developer from Bengaluru, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsaifahmad&label=Profile%20views&color=0e75b6&style=flat" alt="syedsaifahmad" /> </p>
+<h3 align="center">Embedded Software Engineer | Embedded Systems | C / Embedded C</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedsaifahmad" alt="syedsaifahmad" /></a> </p>
-
-<img align="right" alt="coding Image" width="400" src="https://github.com/user-attachments/assets/4717cc2a-ccdb-403e-a336-bbfd53eb3cf2">
-
-- 👨‍💻 All of my projects are available at [https://portfolio-saif-cdb63.web.app/](https://portfolio-saif-cdb63.web.app/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **syedsaifahmad030@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syedsaifahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedsaifahmad" height="30" width="40" /></a>
-<a href="https://instagram.com/syedsaifahmad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedsaifahmad_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syedsaifahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedsaifahmad" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/syedsaifahmad">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:syedsaifahmad030@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedsaifahmad&show_icons=true&locale=en&layout=compact" alt="syedsaifahmad" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedsaifahmad&show_icons=true&locale=en" alt="syedsaifahmad" /></p>
+I am an Electrical Engineer transitioning into **Embedded Software Engineering**, with hands-on experience in industrial electrical systems and a growing focus on embedded firmware development.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsaifahmad&" alt="syedsaifahmad" /></p>
+Currently building projects using **Embedded C, STM32, ESP32, FreeRTOS, and microcontroller communication protocols**.
+
+### 🔧 Currently Learning
+
+- Embedded C and C programming
+- STM32 microcontrollers
+- ESP32
+- FreeRTOS
+- CAN
+- UART, SPI and I2C
+- GPIO, ADC, Timers and Interrupts
+- Embedded debugging and hardware interfacing
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+</p>
+
+### Embedded Systems
+
+- STM32
+- ESP32
+- Embedded C
+- FreeRTOS
+- GPIO
+- ADC
+- Timers
+- Interrupts
+
+### Communication Protocols
+
+- UART
+- SPI
+- I2C
+- CAN
+- RS-485 / Modbus
+
+### Tools
+
+- STM32CubeIDE
+- Arduino IDE
+- Git & GitHub
+- VS Code
+- Logic Analyzer
+
+---
+
+## 🚀 Featured Embedded Projects
+
+### 1. Multi-Node CAN Bus Network with FreeRTOS
+
+**STM32 | Embedded C | CAN | FreeRTOS | ADC | UART**
+
+A two-node STM32 communication system demonstrating CAN-based data exchange and FreeRTOS task management.
+
+**Key concepts:**
+- CAN communication
+- FreeRTOS tasks
+- Queues
+- ADC
+- UART debugging
+- CAN message identifiers and filters
+
+---
+
+### 2. ESP32 FreeRTOS Multi-Sensor Data Logger
+
+**ESP32 | Embedded C | FreeRTOS | I2C | SPI | UART**
+
+A multitasking ESP32-based data logging system using FreeRTOS to acquire, process and transmit sensor data.
+
+**Key concepts:**
+- FreeRTOS tasks
+- Queues and mutexes
+- I2C/SPI peripherals
+- UART communication
+- Task scheduling and synchronization
+
+---
+
+### 3. ESP32 Smart Parking Sensor & Alert System
+
+**ESP32 | Embedded C | HC-SR04 | GPIO | LED | Buzzer**
+
+An ESP32-based proximity detection system that measures obstacle distance and provides visual and audible alerts.
+
+**Key concepts:**
+- GPIO programming
+- Ultrasonic sensor interfacing
+- Timing and pulse measurement
+- LED and buzzer control
+- Hardware debugging
+
+---
+
+## 📚 Learning Focus
+
+I am currently strengthening my understanding of:
+
+```text
+C
+ ↓
+Embedded C
+ ↓
+Microcontroller Architecture
+ ↓
+GPIO / ADC / Timers / Interrupts
+ ↓
+UART / SPI / I2C
+ ↓
+FreeRTOS
+ ↓
+CAN / RS-485 / Modbus
+ ↓
+STM32 Embedded Development
+```
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/syedsaifahmad">
+    <img src="https://img.shields.io/badge/LinkedIn-Syed%20Saif%20Ahmad-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:syedsaifahmad030@gmail.com">
+    <img src="https://img.shields.io/badge/Email-syedsaifahmad030%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
